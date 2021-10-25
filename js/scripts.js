@@ -77,9 +77,9 @@
 //     num1 = +num1;
 //     num2 = +num2;
 //     num3 = +num3
-//     if (num1 + num2 >= num3) {
+//     if (num1 + num2 > num3) {
 //         alert (`Это треугольник со сторонами ${num1} см, ${num2} см, ${num3} см`)
-//     } else if (num2 + num3 >= num1) {
+//     } else if (num2 + num3 > num1) {
 //         alert (`Это треугольник со сторонами ${num1} см, ${num2} см, ${num3} см`)
 //     } else if (num1 + num3 > num2) {
 //         alert (`Это треугольник со сторонами ${num1} см, ${num2} см, ${num3} см`)

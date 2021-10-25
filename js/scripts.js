@@ -3,7 +3,7 @@
 // const check = x > y ? alert('x больше, чем y') : alert('x не больше, чем y') 
 
 // Task 2
-// let num = prompt('Введите число');
+// let num = prompt('Введите не равное нулю число');
 // if (num === null || isNaN(num) || num.trim() === '' || num == 0) {
 //     alert('Ты не прав, брат')
 // }
